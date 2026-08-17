@@ -11,18 +11,18 @@
 </td>
 <td valign="top" width="33%">
 <a href="https://github.com/comentality/xrm-plugin-documenter"><img width="245" src="https://raw.githubusercontent.com/comentality/.github/main/profile/assets/shots/xrm-plugin-documenter.png"></a><br>
-<b><a href="https://github.com/comentality/xrm-plugin-documenter">Plugin Documenter</a></b><br>
+<img height="16" src="https://raw.githubusercontent.com/comentality/xrm-plugin-documenter/main/PluginDocumenter/icon.png"> <b><a href="https://github.com/comentality/xrm-plugin-documenter">Plugin Documenter</a></b><br>
 <sub>Plugin step registrations, written back into your C# source · <a href="https://github.com/comentality/xrm-plugin-documenter"><code>code</code></a></sub>
 </td>
 <td valign="top" width="33%">
 <a href="https://github.com/comentality/xrm-events-2-code"><img width="245" src="https://raw.githubusercontent.com/comentality/.github/main/profile/assets/shots/xrm-events-2-code.png"></a><br>
-<b><a href="https://github.com/comentality/xrm-events-2-code">Events2Code</a></b><br>
+<img height="16" src="https://raw.githubusercontent.com/comentality/xrm-events-2-code/main/Events2Code/icon.png"> <b><a href="https://github.com/comentality/xrm-events-2-code">Events2Code</a></b><br>
 <sub>Form-designer event handlers turned into a JavaScript OnLoad bootstrap · <a href="https://github.com/comentality/xrm-events-2-code"><code>code</code></a></sub>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<b><a href="https://github.com/comentality/xrm-document-template-manager">Document Template Manager</a></b><br>
+<img height="16" src="https://raw.githubusercontent.com/comentality/xrm-document-template-manager/master/Images/Icon_12-80.png"> <b><a href="https://github.com/comentality/xrm-document-template-manager">Document Template Manager</a></b><br>
 <sub>Create, upload, activate and delete D365 Word templates · <a href="https://github.com/comentality/xrm-document-template-manager"><code>code</code></a></sub>
 </td>
 <td valign="top"></td>
