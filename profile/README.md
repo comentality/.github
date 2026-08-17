@@ -15,26 +15,22 @@
 <sub>Plugin step registrations, written back into your C# source · <a href="https://github.com/comentality/xrm-plugin-documenter"><code>code</code></a></sub>
 </td>
 <td valign="top" width="33%">
+<a href="https://github.com/comentality/xrm-events-2-code"><img width="245" src="https://raw.githubusercontent.com/comentality/.github/main/profile/assets/shots/xrm-events-2-code.png"></a><br>
 <b><a href="https://github.com/comentality/xrm-events-2-code">Events2Code</a></b><br>
-<sub>Form-designer event handlers turned into a JavaScript OnLoad bootstrap, then unregistered from the form · <a href="https://github.com/comentality/xrm-events-2-code"><code>code</code></a></sub>
+<sub>Form-designer event handlers turned into a JavaScript OnLoad bootstrap · <a href="https://github.com/comentality/xrm-events-2-code"><code>code</code></a></sub>
 </td>
 </tr>
-</table>
-
-<h3>Forks kept alive</h3>
-
-<table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top">
 <a href="https://github.com/comentality/PluginRegistration"><img width="245" src="https://raw.githubusercontent.com/comentality/.github/main/profile/assets/shots/PluginRegistration.png"></a><br>
 <b><a href="https://github.com/comentality/PluginRegistration">Plugin Registration</a></b><br>
 <sub>The classic CRM SDK tool, as an XrmToolBox plugin · <a href="https://www.nuget.org/packages/Xrm.Sdk.PluginRegistration/"><code>nuget</code></a></sub>
 </td>
-<td valign="top" width="33%">
+<td valign="top">
 <b><a href="https://github.com/comentality/xrm-document-template-manager">Document Template Manager</a></b><br>
 <sub>Create, upload, activate and delete D365 Word templates · <a href="https://github.com/comentality/xrm-document-template-manager"><code>code</code></a></sub>
 </td>
-<td valign="top" width="33%"></td>
+<td valign="top"></td>
 </tr>
 </table>
 
