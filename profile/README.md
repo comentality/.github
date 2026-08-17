@@ -35,7 +35,6 @@
 <p><sub>
 <a href="https://github.com/comentality/Comentality">Comentality</a> — strongly typed drop-in plugin helpers for Dynamics CRM ·
 <a href="https://github.com/comentality/crm-awesome">crm-awesome</a> — awesome stuff in Dynamics CRM ·
-<a href="https://github.com/comentality/TypeSafePluginRegistration">TypeSafePluginRegistration</a> ·
 <a href="https://github.com/comentality/Crm2011JavascriptDocumentor">Crm2011JavascriptDocumentor</a> ·
 <a href="https://github.com/comentality/DynamicsCrmEasyMigration">DynamicsCrmEasyMigration</a>
 </sub></p>
