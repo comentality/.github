@@ -20,14 +20,6 @@
 <sub>Form-designer event handlers turned into a JavaScript OnLoad bootstrap · <a href="https://github.com/comentality/xrm-events-2-code"><code>code</code></a></sub>
 </td>
 </tr>
-<tr>
-<td valign="top">
-<img height="16" src="https://raw.githubusercontent.com/comentality/xrm-document-template-manager/master/Images/Icon_12-80.png"> <b><a href="https://github.com/comentality/xrm-document-template-manager">Document Template Manager</a></b><br>
-<sub>Create, upload, activate and delete D365 Word templates · <a href="https://github.com/comentality/xrm-document-template-manager"><code>code</code></a></sub>
-</td>
-<td valign="top"></td>
-<td valign="top"></td>
-</tr>
 </table>
 
 <h3>Also</h3>
