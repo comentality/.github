@@ -22,14 +22,10 @@
 </tr>
 <tr>
 <td valign="top">
-<a href="https://github.com/comentality/PluginRegistration"><img width="245" src="https://raw.githubusercontent.com/comentality/.github/main/profile/assets/shots/PluginRegistration.png"></a><br>
-<b><a href="https://github.com/comentality/PluginRegistration">Plugin Registration</a></b><br>
-<sub>The classic CRM SDK tool, as an XrmToolBox plugin · <a href="https://www.nuget.org/packages/Xrm.Sdk.PluginRegistration/"><code>nuget</code></a></sub>
-</td>
-<td valign="top">
 <b><a href="https://github.com/comentality/xrm-document-template-manager">Document Template Manager</a></b><br>
 <sub>Create, upload, activate and delete D365 Word templates · <a href="https://github.com/comentality/xrm-document-template-manager"><code>code</code></a></sub>
 </td>
+<td valign="top"></td>
 <td valign="top"></td>
 </tr>
 </table>
