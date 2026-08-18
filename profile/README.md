@@ -22,20 +22,6 @@
 </tr>
 </table>
 
-<h3>Desktop</h3>
-
-<table>
-<tr>
-<td valign="top" width="33%">
-<a href="https://github.com/skfd/sky-session-claude"><img width="245" src="https://raw.githubusercontent.com/skfd/sky-session-claude/main/docs/screenshot.png"></a><br>
-<img height="16" src="https://raw.githubusercontent.com/skfd/sky-session-claude/main/docs/icon-32.png"> <b><a href="https://github.com/skfd/sky-session-claude">Sky Session Claude</a></b><br>
-<sub>Every Claude Code session in one list, resumable with a double-click · <a href="https://github.com/skfd/sky-session-claude/releases/latest"><code>download</code></a> · <a href="https://github.com/skfd/sky-session-claude"><code>code</code></a></sub>
-</td>
-<td valign="top" width="33%"></td>
-<td valign="top" width="33%"></td>
-</tr>
-</table>
-
 <h3>Also</h3>
 
 <p><sub>
