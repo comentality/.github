@@ -12,12 +12,12 @@
 <td valign="top" width="33%">
 <a href="https://github.com/comentality/xrm-plugin-step-codegen"><img width="245" src="https://raw.githubusercontent.com/comentality/.github/main/profile/assets/shots/xrm-plugin-step-codegen.png"></a><br>
 <img height="27" align="middle" src="https://raw.githubusercontent.com/comentality/.github/main/profile/assets/icons/xrm-plugin-step-codegen.png?v=3"> <b><a href="https://github.com/comentality/xrm-plugin-step-codegen">Plugin Step Codegen</a></b><br>
-<sub>Plugin step registrations, written back into your C# source · <a href="https://github.com/comentality/xrm-plugin-step-codegen"><code>code</code></a></sub>
+<sub>Plugin step registrations, written back into your C# source · <a href="https://www.nuget.org/packages/Comentality.PluginStepCodegen"><code>nuget</code></a></sub>
 </td>
 <td valign="top" width="33%">
 <a href="https://github.com/comentality/xrm-events-2-code"><img width="245" src="https://raw.githubusercontent.com/comentality/.github/main/profile/assets/shots/xrm-events-2-code.png"></a><br>
 <img height="27" align="middle" src="https://raw.githubusercontent.com/comentality/.github/main/profile/assets/icons/xrm-events-2-code.png?v=3"> <b><a href="https://github.com/comentality/xrm-events-2-code">Events2Code</a></b><br>
-<sub>Form-designer event handlers turned into a JavaScript OnLoad bootstrap · <a href="https://github.com/comentality/xrm-events-2-code"><code>code</code></a></sub>
+<sub>Form-designer event handlers turned into a JavaScript OnLoad bootstrap · <a href="https://www.nuget.org/packages/Comentality.Events2Code"><code>nuget</code></a></sub>
 </td>
 </tr>
 </table>
