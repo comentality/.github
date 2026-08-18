@@ -5,14 +5,14 @@
 <table>
 <tr>
 <td valign="top" width="33%">
-<a href="https://github.com/comentality/xrm-document-template-x-ray"><img width="245" src="https://raw.githubusercontent.com/comentality/xrm-document-template-x-ray/main/docs/screenshots/tool-01-flat-list.png"></a><br>
-<img height="16" src="https://raw.githubusercontent.com/comentality/xrm-document-template-x-ray/main/DocumentTemplateXRay/icon.png?v=2"> <b><a href="https://github.com/comentality/xrm-document-template-x-ray">Document Template X-Ray</a></b><br>
+<a href="https://github.com/comentality/xrm-document-template-xray"><img width="245" src="https://raw.githubusercontent.com/comentality/xrm-document-template-xray/main/docs/screenshots/tool-01-flat-list.png"></a><br>
+<img height="16" src="https://raw.githubusercontent.com/comentality/xrm-document-template-xray/main/DocumentTemplateXRay/icon.png?v=2"> <b><a href="https://github.com/comentality/xrm-document-template-xray">Document Template XRay</a></b><br>
 <sub>Every D365 field reference inside a Word template · <a href="https://www.nuget.org/packages/DocumentTemplateXRay"><code>nuget</code></a> · <a href="https://www.xrmtoolbox.com/plugins/plugininfo/?id=6284fa8b-ac36-f111-9a90-7ced8d45b89f"><code>store</code></a></sub>
 </td>
 <td valign="top" width="33%">
-<a href="https://github.com/comentality/xrm-plugin-documenter"><img width="245" src="https://raw.githubusercontent.com/comentality/.github/main/profile/assets/shots/xrm-plugin-documenter.png"></a><br>
-<img height="16" src="https://raw.githubusercontent.com/comentality/xrm-plugin-documenter/main/PluginDocumenter/icon.png?v=2"> <b><a href="https://github.com/comentality/xrm-plugin-documenter">Plugin Documenter</a></b><br>
-<sub>Plugin step registrations, written back into your C# source · <a href="https://github.com/comentality/xrm-plugin-documenter"><code>code</code></a></sub>
+<a href="https://github.com/comentality/xrm-plugin-step-codegen"><img width="245" src="https://raw.githubusercontent.com/comentality/.github/main/profile/assets/shots/xrm-plugin-step-codegen.png"></a><br>
+<img height="16" src="https://raw.githubusercontent.com/comentality/xrm-plugin-step-codegen/main/PluginStepCodegen/icon.png?v=2"> <b><a href="https://github.com/comentality/xrm-plugin-step-codegen">Plugin Step Codegen</a></b><br>
+<sub>Plugin step registrations, written back into your C# source · <a href="https://github.com/comentality/xrm-plugin-step-codegen"><code>code</code></a></sub>
 </td>
 <td valign="top" width="33%">
 <a href="https://github.com/comentality/xrm-events-2-code"><img width="245" src="https://raw.githubusercontent.com/comentality/.github/main/profile/assets/shots/xrm-events-2-code.png"></a><br>
