@@ -20,6 +20,15 @@
 <sub>Form-designer event handlers turned into a JavaScript OnLoad bootstrap · <a href="https://www.nuget.org/packages/Comentality.Events2Code"><code>nuget</code></a> · <a href="https://www.xrmtoolbox.com/plugins/plugininfo/?id=abb52b29-549b-f111-85cd-000d3ada56b9"><code>store</code></a></sub>
 </td>
 </tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/comentality/xrm-icons"><img width="245" src="https://raw.githubusercontent.com/comentality/.github/main/profile/assets/shots/xrm-icons.png"></a><br>
+<img height="27" align="middle" src="https://raw.githubusercontent.com/comentality/.github/main/profile/assets/icons/xrm-icons.png?v=3"> <b><a href="https://github.com/comentality/xrm-icons">Icons</a></b><br>
+<sub>21,698 icons, searched in Dataverse words and set on a table in one click · <a href="https://www.nuget.org/packages/Comentality.Icons"><code>nuget</code></a> · <a href="https://www.xrmtoolbox.com/plugins/plugininfo/?id=3d42262a-36ce-f111-81be-000d3ab3d06e"><code>store</code></a></sub>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+</tr>
 </table>
 
 <h3>Also</h3>
